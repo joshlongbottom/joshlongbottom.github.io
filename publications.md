@@ -4,7 +4,34 @@ title: Publications
 permalink: /publications/
 ---
 
-**Here is a list of my current publications, ordered from newest to oldest (Updated May 2019):**
+**Here is a list of my current publications, ordered from newest to oldest (Updated January 2020):**
+
+<br>
+
+<p align="center"> 
+<img src = "https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12916-019-1443-1/MediaObjects/12916_2019_1443_Fig1_HTML.png" height = "400" >
+</p>
+
+[Browne, A.J; Kasef Hamadani, B.H; Kumaran, E.A.P; Rao, P; <b> Longbottom, J;</b> Harriss, E; Moore, C.E; Dunachie, S; Basnyat, B; Baker, S; Lopez, A.D; Day, N.P.J; Hay, S.I & Dolecek, C. Drug-resistant enteric fever worldwide, 1990 to 2018: a systematic review and meta-analysis. <i>BMC Medicine</i>, 18.](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1443-1)
+
+**Background**: Antimicrobial resistance (AMR) is an increasing threat to global health. There are > 14 million cases of enteric fever every year and > 135,000 deaths. The disease is primarily controlled by antimicrobial treatment, but this is becoming increasingly difficult due to AMR. Our objectives were to assess the prevalence and geographic distribution of AMR in Salmonella enterica serovars Typhi and Paratyphi A infections globally, to evaluate the extent of the problem, and to facilitate the creation of geospatial maps of AMR prevalence to help targeted public health intervention.
+
+**Methods**: We performed a systematic review of the literature by searching seven databases for studies published between 1990 and 2018. We recategorised isolates to allow the analysis of fluoroquinolone resistance trends over the study period. The prevalence of multidrug resistance (MDR) and fluoroquinolone non-susceptibility (FQNS) in individual studies was illustrated by forest plots, and a random effects meta-analysis was performed, stratified by Global Burden of Disease (GBD) region and 5-year time period. Heterogeneity was assessed using the I2 statistics. We present a descriptive analysis of ceftriaxone and azithromycin resistance.
+
+**Findings**: We identified 4557 articles, of which 384, comprising 124,347 isolates (94,616 S. Typhi and 29,731 S. Paratyphi A) met the pre-specified inclusion criteria. The majority (276/384; 72%) of studies were from South Asia; 40 (10%) articles were identified from Sub-Saharan Africa. With the exception of MDR S. Typhi in South Asia, which declined between 1990 and 2018, and MDR S. Paratyphi A, which remained at low levels, resistance trends worsened for all antimicrobials in all regions. We identified several data gaps in Africa and the Middle East. Incomplete reporting of antimicrobial susceptibility testing (AST) and lack of quality assurance were identified.
+
+**Interpretation**: Drug-resistant enteric fever is widespread in low- and middle-income countries, and the situation is worsening. It is essential that public health and clinical measures, which include improvements in water quality and sanitation, the deployment of S. Typhi vaccination, and an informed choice of treatment are implemented. However, there is no licenced vaccine for S. Paratyphi A. The standardised reporting of AST data and rollout of external quality control assessment are urgently needed to facilitate evidence-based policy and practice.
+
+---
+<p align="center"> 
+<img src = "https://pbs.twimg.com/media/EL-61tMXkAMgJfr?format=jpg&name=4096x4096" height = "400" >
+</p>
+
+[Tomlinson, S; South, A & <b> Longbottom, J.</b> Malaria Data by District: An open-source web application for increasing access to malaria information. <i>Wellcome Open Res</i>, 2019; 4:151.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6915811/)
+
+Preventable diseases still cause huge mortality in low- and middle-income countries. Research in spatial epidemiology and earth observation is helping academics to understand and prioritise how mortality could be reduced and generates spatial data that are used at a global and national level, to inform disease control policy. These data could also inform operational decision making at a more local level, for example to help officials target efforts at a local/regional level. To be usable for local decision-making, data needs to be presented in a way that is relevant to and understandable by local decision makers. We demonstrate an approach and prototype web application to make spatial outputs from disease modelling more useful for local decision making. Key to our approach is: (1) we focus on a handful of important data layers to maintain simplicity; (2) data are summarised at scales relevant to decision making (administrative units); (3) the application has the ability to rank and compare administrative units; (4) open-source code that can be modified and re-used by others, to target specific user-needs. Our prototype application allows visualisation of a handful of key layers from the Malaria Atlas Project. Data can be summarised by administrative unit for any malaria endemic African country, ranked and compared; e.g. to answer questions such as, ‘does the district with the highest malaria prevalence also have the lowest coverage of insecticide treated nets?’. The application is developed in R and the code is open-source. It would be relatively easy for others to change the source code to incorporate different data layers, administrative boundaries or other data visualisations. We suggest such open-source web application development can facilitate the use of data for public health decision making in low resource settings.
+
+---
 
 <p align="center"> 
 <img src = "https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/3f106d6c-902e-428f-880c-11d40b5de26a/gr2.jpg" height = "400" >
